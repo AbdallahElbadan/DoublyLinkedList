@@ -192,8 +192,7 @@ void unorderedDoubleLinkedList<Type>::deleteNode(const Type& deleteItem)
         }
         this->count--;
     }
-    //Note: there is an error at the end that I wasn't able to fix, for some reason at the end current from search function will have
-    //an error.
+
 
 
 }//end deleteNode
